@@ -1,0 +1,15 @@
+td.PDC_INFORMATION {
+  background-color: #99FFFF;
+}
+
+td.PDC_ADVISORY {
+  background-color: #33FF99;
+}
+
+td.PDC_WATCH {
+  background-color: #FFFF99;
+}
+
+td.PDC_WARNING {
+  background-color: #FF9933;
+}
